@@ -1,0 +1,5 @@
+[options]
+CleanAfter=yes
+NewsOnUpgrade=yes
+RemoveMake=yes
+SkipReview=yes
